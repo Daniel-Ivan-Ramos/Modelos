@@ -1,0 +1,398 @@
+{
+  "saludos": [
+    {
+      "questions": [
+        "hola", "holas", "hi", "hello", "buenas", "¿qué tal?", "¡hey!", "hola, ¿cómo va todo?", 
+        "saludos", "¿todo bien por aquí?", "¡hola!", "¡buenas!", "¿qué tal?", "¡hey!", "¡saludos!", 
+        "¿cómo estás?", "¿todo bien?", "¡qué pasa!", "¿cómo andas?", "¿cómo te va?", "¡qué onda!", 
+        "¡hey, qué tal!", "¿qué hay?", "¡buen día!", "¡buenas tardes!", "¡buenas noches!", 
+        "¡saluditos!", "¿qué cuentas?", "¡qué tal todo!", "¡qué tal, cómo va todo!", "ey"
+      ],
+      "answer": [
+        "¡Hola! Soy tu asistente virtual. ¿En qué puedo ayudarte hoy? 😊", 
+        "¡Hola! ¿Qué tal? ¿Cómo te puedo ayudar hoy?", 
+        "¡Hola! ¿Cómo estás? Estoy aquí para ayudarte. 😊", 
+        "¡Saludos! ¿Qué tal todo? ¿En qué puedo ayudarte?", 
+        "¡Hola! ¿Cómo va todo? Estoy disponible para cualquier consulta. 😉"
+      ]
+    },
+    {
+      "questions": [
+        "buenos dias", "buenos dias, ¿cómo estás?", "¡buenos dias!", "buenos días", "¡qué lindo dia, buenos días!", 
+        "dia", "dias", "sientes en el dia", "que dia", "vaya dia"
+      ],
+      "answer": [
+        "¡Buenos días! ¿Cómo te sientes hoy? 🌞", 
+        "¡Buenos días! ¿Cómo te encuentro hoy? 😄", 
+        "¡Buenos días! Que tengas un día increíble. ☀️", 
+        "¡Buenos días! Espero que hoy sea un gran día para ti. 😊", 
+        "¡Buenos días! ¿Listo para comenzar el día con energía? 🌅"
+      ]
+    },
+    {
+      "questions": [
+        "buenas tardes", "¡buenas tardes!", "buenas tardes", "¿qué tal, buenas tardes?", 
+        "buenas tardes, ¿cómo estás hoy?"
+      ],
+      "answer": [
+        "¡Buenas tardes! ¿Qué puedo hacer por ti? 🌇", 
+        "¡Buenas tardes! ¿En qué puedo ayudarte hoy? 😊", 
+        "¡Buenas tardes! ¿Cómo va tu día? 🌅", 
+        "¡Buenas tardes! Aquí estoy para lo que necesites. 😄", 
+        "¡Buenas tardes! ¿Cómo va todo hasta ahora? 🌆"
+      ]
+    },
+    {
+      "questions": [
+        "buenas noches", "¡buenas noches!", "buenas noches", "noches", "oscuro", 
+        "¿cómo va todo, buenas noches?", "buenas noches, ¿qué tal el día?", 
+        "¡buenas noches!", "buenas noches", "noches", "oscuro", 
+        "¿cómo va todo, buenas noches?", "buenas noches, ¿qué tal el día?", 
+        "¡que descanses!", "que tengas una buena noche", "que duermas bien", 
+        "noche tranquila", "¿cómo estás en esta noche?", "buenas noches, que descanses",
+        "buenas noches, espero que hayas tenido un buen día", "¿cómo va todo esta noche?"
+      ],
+      "answer": [
+        "¡Buenas noches! ¿Necesitas ayuda antes de dormir? 🌙", 
+        "¡Buenas noches! ¿Cómo te va esta noche? 🌜", 
+        "¡Buenas noches! Que tengas un descanso reparador. 😴", 
+        "¡Buenas noches! Espero que hayas tenido un buen día. 🌙", 
+        "¡Buenas noches! ¡Que duermas bien y descanses! 😴"
+      ]
+    }
+  ],
+  "despedidas": [
+    {
+        "questions": [
+            "adiós", "hasta luego", "nos vemos", "chau", "hasta pronto", 
+            "¡nos vemos pronto!", "hasta la próxima", "me voy, chau", 
+            "bye", "cuídate mucho", "¡hasta la vista!", "¡nos vemos más tarde!", 
+            "¡hasta luego, que estés bien!", "¡adiós, que tengas un buen día!", 
+            "nos vemos más tarde", "me voy, ¡hasta la próxima!", 
+            "¡nos vemos en otro momento!", "¡hasta la próxima, cuídate!", 
+            "que te vaya bien", "me retiro", "me voy", "ya me voy", 
+            "gracias, adiós", "me despido", "me tengo que ir", 
+            "te dejo por ahora", "cuídate", "te veo después", 
+            "adiós, cuídate", "adiós, hasta pronto", "hasta luego, adiós", 
+            "bye bye", "nos vemos después", "¡chau chau!", 
+            "hasta otra ocasión", "gracias por todo, hasta luego", 
+            "nos vemos mañana", "nos vemos luego", "¡que estés bien!"
+        ],
+        "answer": [
+            "¡Adiós! Espero haberte ayudado. ¡Nos vemos pronto! 👋", 
+            "¡Hasta pronto! Cuídate mucho. ¡Nos vemos en otra ocasión! 👋", 
+            "¡Chau! ¡Espero verte pronto! ¡Cuídate! 😄", 
+            "¡Hasta luego! ¡Que tengas un excelente día! 😊", 
+            "¡Adiós! ¡Nos vemos en la próxima! ¡Cuídate! 👋"
+        ]
+    }
+  ],
+
+      "chistes": [
+      {
+        "questions": [
+          "Chiste",
+          "Chistes",
+          "¿Me cuentas un chiste?",
+          "Cuéntame un chiste",
+          "¿Tienes algún chiste?",
+          "Dime un chiste",
+          "¿Sabes un chiste?",
+          "Cuéntame algo gracioso",
+          "Tienes un buen chiste por ahí",
+          "Hazme reír con un chiste",
+          "¿Tienes algún chiste para hoy?",
+          "¿Un chiste rápido?",
+          "Dime un chiste nuevo",
+          "Hazme reír con algo gracioso",
+          "Sorpréndeme con un chiste",
+          "¿Tienes un chiste de animales?",
+          "Cuéntame un chiste de niños",
+          "Hazme reír con algo corto",
+          "¿Tienes algún chiste de perros?",
+          "¿Un chiste de gatos?",
+          "Cuéntame un chiste sobre profes",
+          "¿Un chiste de trabajo?",
+          "¿Me cuentas un chiste tonto?","Chiste", "¿Me cuentas un chiste?",
+           "Dime un chiste", "¿Tienes chistes?", "Hazme reír", "Un chiste",
+            "Cuéntame algo gracioso", "¿Sabes un chiste?", "Algo gracioso",
+           "Chistes, por favor", "Dime algo divertido", "Hazme reír con algo", 
+           "¿Algo gracioso?", "¿Un chiste?", "Cuéntame uno","chiste?"
+        ],
+        "answer": [
+          "¡Claro! ¿Por qué el libro de matemáticas está triste? ¡Porque tiene demasiados problemas! 😂",
+          "¡Aquí va otro! ¿Por qué los pájaros no usan Facebook? ¡Porque ya tienen Twitter! 🐦",
+          "Un chiste rápido: ¿Cómo se llama un boomerang que no vuelve? ¡Un palo! 😂",
+          "¿Sabes por qué las focas miran siempre hacia arriba? ¡Porque ahí están los focos! 🦭",
+          "¿Por qué el calamar no se pelea con nadie? ¡Porque siempre está en su tinta! 🐙",
+          "¿Qué hace una abeja en el gimnasio? ¡Zum-ba! 🐝",
+          "¿Por qué los elefantes no usan computadoras? ¡Porque le tienen miedo al mouse! 🐘🐭",
+          "Un hombre entra a una tienda y le dice al dependiente: '¿Me da un kilo de arroz?' El dependiente responde: '¡Claro, pero no tenemos balanza, así que lo voy a contar!' 😂",
+          "¿Sabías que las vacas tienen amigos? ¡Sí, siempre se juntan con sus amigas para rumiar! 🐄",
+          "¿Por qué el libro de historia está tan estresado? ¡Porque siempre está siendo revisado! 📚",
+          "¿Sabes por qué los esqueletos no pelean entre ellos? ¡Porque no tienen agallas! 💀",
+          "¿Cómo se llama un pez que hace mucho ejercicio? ¡Un pez-culturista! 🐟💪",
+          "¿Por qué las vacas nunca usan Facebook? ¡Porque ya tienen su propio perfil de vacas! 🐄",
+          "¿Por qué los esqueletos nunca invitan a fiestas? ¡Porque no tienen cuerpo para asistir! 💀",
+          "¿Qué hace un perro con un taladro? ¡Tala-dog! 🐶",
+          "¿Por qué la escoba está tan feliz? ¡Porque va barriendo con todo! 🧹",
+          "¿Qué le dice una impresora a otra? 'Esa hoja es tuya o es una impresión mía.' 🖨️",
+          "Las cebras no tienen dos rayas iguales, ¡son como las huellas dactilares! 🦓",
+          "¿Sabías que puedes oír el rugido de un león a 8 kilómetros de distancia? 🦁",
+          "El cerebro humano es más activo por la noche que durante el día. ¡Tu creatividad no duerme! 🧠",
+          "¿Sabías que un día en Venus dura más que un año en Venus? 🪐",
+          "Los gatos no pueden saborear lo dulce. ¡Por eso prefieren algo más salado o carnoso! 🐱",
+          "¿Por qué el tomate nunca toma decisiones? Porque siempre está en salsa. 🍅😂",
+          "¿Qué hace una abeja en el gimnasio? ¡Zum-ba! 🐝",
+          "¿Qué le dice un gusano a otro gusano? ¡Voy a dar una vuelta a la manzana! 🍎",
+          "¿Por qué los peces son tan malos jugando al baloncesto? Porque le tienen miedo a la red. 🐟🏀",
+          "¿Qué le dice un semáforo a otro semáforo? ¡No me mires, me estoy cambiando! 🚦",
+          "¿Por qué las focas no usan teléfonos? ¡Porque siempre están en modo silencio! 📱🦭",
+          "¿Qué le dice un pez a otro pez? ¡Nada, nada! 🐟",
+          "¿Sabías que los pájaros no usan Twitter? ¡Lo tienen incorporado en su genética! 🐦",
+          "¿Por qué la vaca fue al espacio? ¡Para visitar la Vía Láctea! 🚀🐄",
+          "¿Qué hace un insecto cuando le pides un consejo? ¡Te da una picazón de ideas! 🐜",
+          "¿Cómo se llama un perro que hace magia? ¡Un labracadabrador! 🐕✨",
+          "¿Por qué los libros nunca se deprimen? ¡Porque siempre encuentran una solución! 📚",
+          "¿Cuál es el colmo de un electricista? ¡Que se le apague la luz! 💡"
+        ]
+      }
+    ],
+  
+    "datos_curiosos": [
+      {
+        "questions": [
+          "Dato curioso",
+          "¿Me dices un dato curioso?",
+          "Dime algo interesante",
+          "Quiero un dato curioso",
+          "Cuéntame un dato curioso",
+          "¿Sabes algo curioso?",
+          "¿Conoces un dato interesante?",
+          "Dame un dato interesante",
+          "Cuéntame algo que no sepa",
+          "¿Algo raro pero cierto?", 
+          "Cuéntame un hecho sorprendente", 
+          "Quiero saber algo curioso sobre el espacio", 
+          "Dime algo interesante sobre animales","¿Tienes algún dato curioso que contarme?",
+           "Cuéntame algo fuera de lo común.", "¿Sabes algo que me sorprenda?", 
+           "Dame una curiosidad interesante.", "¿Algo extraño pero verdadero?", 
+           "Quiero saber un dato asombroso.", "¿Qué dato curioso conoces?",
+            "¿Puedes sorprenderme con una curiosidad?",
+            "Me encantaría escuchar algo interesante.",
+             "¿Qué me puedes contar que no sepa?", "¿Algo que me deje boquiabierto?", "¿Sabías que...?", "¿Tienes alguna curiosidad sobre el universo?", "Cuéntame algo que no esperaba escuchar.", "¿Conoces algún dato curioso que te sorprenda a ti también?", "Quiero aprender algo que no sabía antes.", "¿Tienes alguna historia curiosa?", "Dime algo que te parezca increíble.", "¿Sabías que esto es cierto?", "Dame un dato curioso sobre la naturaleza.", "¿Me puedes contar algo inusual?", "¿Tienes algún dato alucinante?", "¿Qué cosa rara sabes?", "Cuéntame algo que te deje pensando.", "¿Qué dato curioso me puedes sorprender hoy?", "¿Conoces algún hecho inesperado?", "¿Algo que me haga decir wow?", 
+          "Dime un dato poco común.", "¿Qué sabes de los misterios del mundo?", "Dame algo interesante que no sabías que existía.",
+          "Cuéntame algo", "Dime un dato", "Algo interesante", "¿Sabes algo?", "Dime algo raro", "Cuéntame algo nuevo", 
+          "¿Qué sabes?", "¿Tienes un dato?", "Sorpréndeme", "Dame algo curioso", "¿Sabías esto?",
+           "Dime algo único", "¿Qué me cuentas?", "¿Algo raro?", "¿Sabes algo interesante?", "Dame un dato curioso"
+        ],
+        "answer": [
+          "¿Sabías que los tiburones existen desde antes que los árboles? ¡Han estado aquí por más de 400 millones de años! 🦈",
+          "¿Sabías que las abejas tienen cinco ojos? ¡Sí, cinco! 🐝",
+          "Aquí va uno: los camellos tienen tres párpados para proteger sus ojos de la arena del desierto. 🐫",
+          "El corazón de una ballena azul es tan grande que una persona podría nadar a través de sus arterias. 🐋",
+          "El sol es tan grande que caben 1.3 millones de planetas Tierra dentro de él. ☀️",
+          "Los pulpos tienen tres corazones, uno para cada branquia y uno más para el resto de su cuerpo. 🐙",
+          "Los delfines duermen con un ojo abierto para estar alerta a los depredadores. 🐬",
+          "¿Sabías que la miel nunca se echa a perder? ¡Arqueólogos han encontrado miel en tumbas egipcias que aún es comestible! 🍯",
+          "El agua caliente puede congelarse más rápido que el agua fría, un fenómeno conocido como el efecto Mpemba. ❄️",
+          "El corazón de un camarón está en su cabeza. 🦐",
+          "Los ratones pueden sentir empatía y consolar a otros ratones tristes. 🐭",
+          "El sonido de los truenos viaja más rápido en verano debido al aire caliente. ⛈️",
+          "En el espacio, los astronautas crecen hasta 5 cm más porque la columna se estira. 🚀"
+        ]
+      },
+      {
+        "questions": [
+          "Dime otro dato curioso",
+          "Otro dato curioso, por favor",
+          "Dame un dato más",
+          "Cuéntame algo curioso",
+          "¿Sabes otro dato interesante?",
+          "Dame otro dato asombroso",
+          "¿Tienes más datos interesantes?","Dato curioso",
+          "¿Me dices un dato curioso?",
+          "Dime algo interesante",
+          "Quiero un dato curioso",
+          "Cuéntame un dato curioso",
+          "¿Sabes algo curioso?",
+          "¿Conoces un dato interesante?",
+          "Dame un dato interesante",
+          "Cuéntame algo que no sepa",
+          "¿Algo raro pero cierto?", 
+          "Cuéntame un hecho sorprendente", 
+          "Quiero saber algo curioso sobre el espacio", 
+          "Dime algo interesante sobre animales","¿Tienes algún dato curioso que contarme?",
+           "Cuéntame algo fuera de lo común.", "¿Sabes algo que me sorprenda?", 
+           "Dame una curiosidad interesante.", "¿Algo extraño pero verdadero?", 
+           "Quiero saber un dato asombroso.", "¿Qué dato curioso conoces?",
+            "¿Puedes sorprenderme con una curiosidad?",
+            "Me encantaría escuchar algo interesante.",
+             "¿Qué me puedes contar que no sepa?", "¿Algo que me deje boquiabierto?", "¿Sabías que...?", "¿Tienes alguna curiosidad sobre el universo?", "Cuéntame algo que no esperaba escuchar.", "¿Conoces algún dato curioso que te sorprenda a ti también?", "Quiero aprender algo que no sabía antes.", "¿Tienes alguna historia curiosa?", "Dime algo que te parezca increíble.", "¿Sabías que esto es cierto?", "Dame un dato curioso sobre la naturaleza.", "¿Me puedes contar algo inusual?", "¿Tienes algún dato alucinante?", "¿Qué cosa rara sabes?", "Cuéntame algo que te deje pensando.", "¿Qué dato curioso me puedes sorprender hoy?", "¿Conoces algún hecho inesperado?", "¿Algo que me haga decir wow?", 
+          "Dime un dato poco común.", "¿Qué sabes de los misterios del mundo?", "Dame algo interesante que no sabías que existía.",
+          "Cuéntame algo", "Dime un dato", "Algo interesante", "¿Sabes algo?", "Dime algo raro", "Cuéntame algo nuevo", 
+          "¿Qué sabes?", "¿Tienes un dato?", "Sorpréndeme", "Dame algo curioso", "¿Sabías esto?",
+           "Dime algo único", "¿Qué me cuentas?", "¿Algo raro?", "¿Sabes algo interesante?", "Dame un dato curioso"
+        ],
+        "answer": [
+          "Sabías que el Sol es 330,000 veces más masivo que la Tierra? ☀️",
+          "¿Sabías que el sonido viaja 4 veces más rápido en el agua que en el aire? 🌊",
+          "Los elefantes son los únicos animales que no pueden saltar. 🐘",
+          "Las tortugas pueden respirar a través de su trasero. 🐢",
+          "El hipo no tiene una causa definitiva, pero se dice que es un mal funcionamiento del diafragma. 🤔",
+          "¿Sabías que las arañas no son insectos? ¡Son arácnidos! 🕷️",
+          "La Vía Láctea tiene una forma espiral y tiene unos 100,000 años luz de diámetro. ¡Increíble, ¿verdad?! 🌌",
+          "El colibrí es el único pájaro que puede volar hacia atrás. 🦜",
+          "Los flamencos se alimentan con la cabeza hacia abajo, filtrando su comida del agua. 🦩"
+        ]
+      }
+    ],
+    "adivinanzas": [
+      {
+        "questions": [
+          "Adivinanza",
+          "¿Tienes alguna adivinanza?",
+          "Dime una adivinanza",
+          "¿Sabes alguna adivinanza?",
+          "Quiero una adivinanza",
+          "Dame una adivinanza",
+          "¿Me das una adivinanza?",
+          "¿Te atreves con una adivinanza?",
+          "adivina",
+          "adivinanza",
+          "adiviname","adivinanza", "dime una adivinanza",
+           "cuéntame una adivinanza", "tienes adivinanza", 
+           "me das una adivinanza", "quiero adivinanza", 
+           "dime algo difícil", "te atreves con una adivinanza", 
+           "adivina algo", "¿me adivinas?",
+           "tienes alguna adivinanza", "hazme una adivinanza", "puedes adivinar?", "adivinanza rápida",
+            "dime algo que adivinar","adivinanza", 
+           "dime", "quiero", "hazme", "adivina",
+            "cuéntame", "tienes", "me das", "dime algo", "adiviname"
+        ],
+        "answer": [
+          "Sí, ahí va: Blanco por dentro, verde por fuera. Si quieres que te lo diga, espera. ¿Qué es? (La respuesta es: el coco)",
+          "Tengo agujas y no sé coser, guardo el tiempo y lo sé leer. ¿Qué soy? (La respuesta es: un reloj)",
+          "Estoy en todas las casas, pero no tengo piernas. ¿Qué soy? (La respuesta es: una silla)",
+          "Cuanto más grande soy, menos peso tengo. ¿Qué soy? (La respuesta es: un agujero)",
+          "Tengo muchas llaves, pero no puedo abrir ningún candado. ¿Qué soy? (La respuesta es: un piano)",
+          "Tengo una sola cara y aunque no hablo, siempre me miras. ¿Qué soy? (La respuesta es: un reloj de sol)",
+          "Soy ligero como una pluma, pero ni el hombre más fuerte puede sostenerme por mucho tiempo. ¿Qué soy? (La respuesta es: el aliento)",
+          "Tengo un ojo pero no veo, ¿qué soy? (La respuesta es: una aguja)"
+        ]
+      },
+      {
+        "questions": [
+          "¿Sabes otra adivinanza?",
+          "Dime una más",
+          "Otra adivinanza, por favor",
+          "Quiero otra adivinanza",
+          "¿Me das una más?",
+          "adivinar mas","Adivinanza",
+          "¿Tienes alguna adivinanza?",
+          "Dime una adivinanza",
+          "¿Sabes alguna adivinanza?",
+          "Quiero una adivinanza",
+          "Dame una adivinanza",
+          "¿Me das una adivinanza?",
+          "¿Te atreves con una adivinanza?",
+          "adivina",
+          "adivinanza",
+          "adiviname","adivinanza", "dime una adivinanza",
+           "cuéntame una adivinanza", "tienes adivinanza", 
+           "me das una adivinanza", "quiero adivinanza", 
+           "dime algo difícil", "te atreves con una adivinanza", 
+           "adivina algo", "¿me adivinas?",
+           "tienes alguna adivinanza", "hazme una adivinanza", "puedes adivinar?", "adivinanza rápida",
+            "dime algo que adivinar","adivinanza", 
+           "dime", "quiero", "hazme", "adivina",
+            "cuéntame", "tienes", "me das", "dime algo", "adiviname"
+        ],
+        "answer": [
+          "¿Qué tiene muchos dientes pero no puede morder? (La respuesta es: un peine)",
+          "Siempre va hacia arriba, nunca hacia abajo, pero no se mueve. ¿Qué es? (La respuesta es: la edad)",
+          "Si me nombras, ya no me puedes ver. ¿Qué soy? (La respuesta es: el silencio)",
+          "Cuanto más tengo, menos ves. ¿Qué soy? (La respuesta es: la oscuridad)",
+          "No tiene boca, pero habla. ¿Qué es? (La respuesta es: el eco)",
+          "En el agua me mojarás, pero nunca te podré ahogar. ¿Qué soy? (La respuesta es: el sol)",
+          "Me ves en el agua pero no me puedo mojar. ¿Qué soy? (La respuesta es: tu reflejo)",
+          "Si caigo al agua no me mojo, pero si me caigo al fuego me derrito. ¿Qué soy? (La respuesta es: el hielo)",
+          "Cuantos más me quitas, más grande me hago. ¿Qué soy? (La respuesta es: un agujero)",
+          "Vivo en la oscuridad y con luz desaparezco. ¿Qué soy? (La respuesta es: la sombra)"
+        ]
+      }
+    ],
+      "ideas_para_hacer": [
+        {
+          "questions": [
+            "Dam algo para hacer",
+            "¿Qué puedo hacer si me aburro?",
+            "Dame una idea para no aburrirme",
+            "¿Qué me sugieres hacer?",
+            "Dime algo divertido para hacer",
+            "¿Tienes alguna idea para hacer algo?",
+            "¿Qué puedo hacer ahora?",
+            "¿Tienes alguna recomendación para divertirme?",
+            "¿Qué me recomiendas hacer?",
+            "Dame ideas creativas", 
+            "¿Qué puedo aprender?", 
+            "Quiero hacer algo productivo", 
+            "¿Qué puedo hacer para mejorar mi día?",
+            "¿Qué actividad me sugerirías?",
+            "¿Qué tal si aprendo algo nuevo?",
+            "¿Algún hobby interesante que pueda probar?",
+            "¿Qué actividades creativas puedo hacer?",
+            "¿Cómo puedo aprovechar mejor mi tiempo?",
+            "¿Qué puedo hacer para ser más productivo?",
+            "¿Algún reto divertido que me puedas proponer?",
+            "¿Qué actividad puedo hacer para relajarme?",
+            "¿Qué me recomendarías si quiero mejorar mis habilidades?",
+            "¿Tienes alguna recomendación para leer algo interesante?",
+            "¿Qué actividad física puedo probar para mantenerme activo?",
+            "¿Cómo puedo organizar mejor mi día?",
+            "¿Qué puedo hacer para aumentar mi concentración?",
+            "¿Algún proyecto creativo que pueda empezar?",
+            "¿Qué puedo hacer si tengo mucho tiempo libre?",
+            "¿Cómo puedo aprender a hacer algo nuevo rápidamente?",
+            "¿Qué tarea de la casa puedo hacer para organizarme?",
+            "¿Tienes alguna idea para practicar alguna habilidad?",
+            "idea","hacer","que mas ","hago","hacer", "idea", "qué hago", 
+            "sugerencia", "divertido", "aprender", "recomendación", "actividad", 
+            "nuevo", "hobby", "practicar", "proyecto", "productivo", "organizar", 
+            "tiempo libre", "habilidad", "concentración", "físico",
+             "relajar", "mejorar", "leer", "reto", "tarea", "consejo","hacemos","hacer","que"
+          ],
+          "answer": [
+            "Puedes aprender a tocar un instrumento musical.",
+            "¿Qué tal si comienzas un proyecto de DIY?",
+            "Puedes ver tutoriales sobre un tema que te interese.",
+            "Te sugiero que hagas ejercicio físico, incluso si solo es caminar.",
+            "¿Por qué no intentas escribir algo creativo o inventar una historia?",
+            "Puedes aprender a cocinar algo nuevo o experimentar con recetas.",
+            "¿Qué tal si organizas tus cosas o tu espacio personal?",
+            "¿Has probado meditar o practicar mindfulness?",
+            "Puedes empezar a leer un libro sobre un tema que te apasione.",
+            "Podrías empezar un nuevo curso en línea sobre algo que te interese.",
+            "¿Qué tal si pruebas alguna manualidad o arte?",
+            "Puedes intentar aprender a programar o a usar nuevas herramientas tecnológicas.",
+            "¿Qué te parece hacer voluntariado o ayudar a otros?",
+            "Prueba aprender un nuevo idioma con aplicaciones o libros.",
+            "Puedes explorar algún deporte o actividad al aire libre.",
+            "¿Qué tal si planificas una excursión o actividad en la naturaleza?",
+            "Podrías hacer un proyecto de jardinería o cuidar plantas.",
+            "Te sugiero que escribas en un diario sobre tu día o pensamientos.",
+            "Puedes crear una lista de metas y comenzar a trabajar en ellas.",
+            "Prueba hacer un curso corto sobre desarrollo personal.",
+            "¿Te gustaría probar aprender algo relacionado con el diseño gráfico?",
+            "Haz una lista de cosas que te gustaría mejorar y empieza a trabajar en una.",
+            "Prueba algún reto de 30 días para cambiar algún hábito.",
+            "Te recomiendo ver documentales o películas educativas.",
+            "Comienza un proyecto de arte o pintura.",
+            "Puedes hacer un análisis de tus hábitos y buscar maneras de mejorar.",
+            "Haz ejercicio en casa con videos de rutinas en línea."
+          ]
+        }
+      ]
+}
+    
+  
